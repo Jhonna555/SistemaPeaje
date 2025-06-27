@@ -71,7 +71,7 @@ java -cp ".;gson-2.x.jar" SistemaPeajeGUI
 - Automáticamente se mostrará su **cantón** y **total recolectado**.
 - Ingresa la **placa del vehículo** y su **tipo**.
 - Si es un camión, indica también el **número de ejes**.
-- Presiona **Guardar Vehículo** para registrar y actualizar.
+- Presiona **GUARDAR** para registrar y actualizar.
 - Los datos se guardan automáticamente en `vehiculos.json`.
 
 ---
