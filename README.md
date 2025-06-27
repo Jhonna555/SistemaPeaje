@@ -88,7 +88,7 @@ Total Recolectado: $ 3
 - **Nombre:** Jhonnatan Francisco Salazar Cadena
 - **Institución:** Universidad Internacional del Ecuador
 - **Carrera:** Ingeniería en Software (Modalidad En Línea)
-- **Materia:** Desarrollo de Software
+- **Materia:** Programación Estructurada y Funcional
 - **Fecha:** Junio 2025
 
 ## 🛠 Tecnologías utilizadas
